@@ -1,0 +1,4 @@
+Login Details
+admin : admin/Test@12345
+ Patient: test@gmail.com/Test@123
+Doctor: test@demo.com/Test@123
